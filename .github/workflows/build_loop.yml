@@ -1,6 +1,3 @@
-Loop draft kod
-
-
 name: 4. Build Loop
 run-name: Build Loop (${{ github.ref_name }})
 on:
